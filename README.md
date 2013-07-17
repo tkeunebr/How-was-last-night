@@ -14,7 +14,10 @@ Usage
 In order to be able to use the expert system, you need to open a Lisp prompt command and type the following:
 
     (load "core.lisp") ;;; To load our core code
-    (start) ;;; To start the engine
+
+And then, to start the engine, type
+
+    (start)
     
 Then you just need to answer the questions by typing the answer number and press Enter (beware that the questions are in
 French only).
